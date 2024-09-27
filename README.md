@@ -11,3 +11,8 @@ Los mensajes originales han sido traducidos al español.
 - Ve al panel de administración de WordPress.
 - Navega a Plugins > Plugins instalados.
 - Busca "Mensaje de Bienvenida para Lectores RSS" y haz clic en Activar.
+# Consideraciones importantes
+- Respalda tu sitio: Antes de usar este plugin, es recomendable hacer una copia de seguridad completa de tu sitio, incluyendo los archivos y la base de datos.
+- Pruebas en un entorno de desarrollo: Si es posible, prueba este plugin en un entorno de desarrollo o staging antes de usarlo en tu sitio en producción.
+- Revisar el archivo feed: Después de activar el plugin, puedes revisar el archivo feed de tu sitio web para verificar que, al final de cada item, aparece el mensaje aleatorio de agradecimiento.
+- Manejo de errores: El plugin incluye mensajes básicos de error, pero puedes ampliarlos para manejar situaciones específicas según tus necesidades.
